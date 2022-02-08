@@ -1,4 +1,4 @@
-run = "ls"
+run = "sh run.sh"
 
 [nix]
 channel = "stable-21_11"
